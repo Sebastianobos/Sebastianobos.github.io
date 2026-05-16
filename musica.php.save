@@ -1,0 +1,32 @@
+<head>
+<title>Sebastiano Boscardin</title>
+<link href="stile.css" rel="stylesheet">
+</head>
+<body>
+<ul>
+<li><a href="
+matematica.php">Matematica</a></li>
+<li><a "href="
+matematica.php">Musica</a></li>
+<li><a "href="
+matematica.php">Stampa 3d</a></li>
+</ul>
+
+yle="
+    display: flex;
+    flex-wrap: nowrap;
+    align-items: center;
+    margin: 10px;
+">Invenzione 1<audio controls="">
+  <source src="Musica/invenzione1" type="audio/mpeg">
+  Your browser does not support the audio tag.
+</audio></label>
+
+<br>
+Invenzione 2
+<audio controls>
+  <source src="Musica/invenzione2" type="audio/mpeg">
+  Your browser does not support the audio tag.
+</audio>
+</body>
+

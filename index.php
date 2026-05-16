@@ -1,0 +1,109 @@
+<head>
+<title>Sebastiano Boscardin</title>
+<?php include 'header.html'; ?>
+<link rel="shortcut icon" href="favicon.ico">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="author" content="Sebastiano Boscardin">
+</head>
+
+
+<nav>
+	<ul>
+		<li><a class="active" href="#home">Home</a></li>
+		<li><a href="#research">Research</a></li>
+		<li><a href="#teaching">Teaching</a></li>
+		<li><a href="#hobbies">Hobbies</a></li>
+		<div style="position:fixed; bottom:0;font-size:90%;padding-left:20px;padding-bottom:20px;">
+		Sebastiano Boscardin
+		<br>
+		Tu/e Eindhoven
+		</div>
+	</ul>
+</nav>
+
+<body>       
+<main>
+<div class="wrapper" id="view" tabindex="0"> 
+
+<div class="content", id="home">
+	<h1>Sebastiano Boscardin</h1>
+	<img style="width:20%;margin-left:35px;margin-top:20px;margin-bottom:40px;max-height:100%; max-width:100%;"; align="right"; vertical-align: bottom; src="photo.jpg";>
+</div>
+<div class="contacts">
+	Tu/e Eindhoven, Netherlands
+	<br>
+	e-mail: s.boscardin@tue.nl
+</div>
+<div class="content">
+	<br>
+	<p>
+		I am a PhD candidate in Mathematics at Eindhoven University of Technology. My field of study is post-quantum cryptography (specifically <a href="https://isogeny.club/">isogeny-based</a>). My supervisors are Prof. <a href="https://hyperelliptic.org/tanja/">Tanja Lange</a> and Prof. <a href="https://mtrimoska.com/">Monika Trimoska</a>. I obtained my master degree at Scuola Normale Superiore and University of Pisa where I worked with Prof. <a href="https://www.sns.it/en/persona/umberto-zannier">Umberto Zannier</a>. 
+	</p>
+</div>
+<hr />
+<div class="titles", id="research">
+	<h3>Research<img style='vertical-align:middle;display:inline-block;padding-left: 50px;' width="60" height="60"; src="icone/UI Basic GLYPH-18.svg"></h3>
+</div>
+<div class="content">
+	<h3>Preprints on e-print</h3>
+	<ul>
+		<li>Exploring Kaneko’s bound: On multi-edges, loops and the diameter of the supersingular l-isogeny graph, with S. A. Spindler <a href="https://eprint.iacr.org/2025/1361">(link)</a> </li>
+	</ul>
+	<h3>Master thesis (2024)</h3>
+	<p style="font-style:oblique;">Supervisor: Prof. Umberto Zannier, Co-supervisor: Prof. Davide Lombardo</p>
+	<p>I studied a problem of diophantine geometry. <a href="tesi_boscardin.pdf">Here</a> it is my master thesis.</p>
+	<h3>Bachelor thesis (2022)</h3>
+	<!--<p style="font-style:oblique;">Title: Holomorphic functions with infinitely many zeros on the disk</p>-->
+	<p style="font-style:oblique;">Supervisor: Prof. Umberto Zannier</p>
+	<!--<a style="font-size:50px;" href="tesi_Boscardin.pdf"> &#8594</a>-->
+	<p>Published in a <a href="https://ems.press/journals/rlm/articles/12753569"> peer-reviwed journal</a>.</p>
+	<h3>Reviewing activity</h3>
+	<p>Asiacrypt 2025, Artifacts evaluation committee at Asiacrypt 2025 <a href="https://asiacrypt.iacr.org/2025/artifacts.php">(link)</a>, Eurocrypt 2026</p>
+</div>
+
+<hr />
+
+<div class="titles", id ="teaching">
+	<h3>Teaching<img style='vertical-align:middle;display:inline-block;padding-left: 50px;' width="60" height="60"; src="icone/UI Basic GLYPH-100.svg"></h3>
+</div>
+
+<div class="content">
+	I am teaching assistant of the following courses.
+	<ul>
+		<li>Introduction to Cryptology (Winter 2024) <a href="https://hyperelliptic.org/tanja/teaching/CS24/">Course page</a> </li>
+		<li>Applied Number Theory and Algebra (Spring 2025)</li>
+		<li>Introduction to Cryptology (Winter 2025) <a href="https://lorenzo3grassi.github.io/teaching/CS25.html">Course page</a> </li>
+		<li>Applied Number Theory and Algebra (Spring 2026)</li>
+	</ul>
+</div>
+
+<hr />
+
+<div class="titles", id ="hobbies">
+	<h3>Hobbies <img style='vertical-align:middle;display:inline-block;padding-left: 50px;' width="60" height="60"; src="icone/UI Basic GLYPH-79.svg"></h3>
+</div>
+
+<div class="content">
+	<table style="width:100%">
+		<colgroup>
+			<col span="3">  
+		</colgroup> 
+	<tr>
+		<th><h3><a href="musica.php"> Music </a></h3></th>
+		<th><a style="font-size:70px;" href="musica.php"><img width="60" height="100"; src="icone/UI Basic GLYPH-34.svg"></a></th>
+	</tr>
+	<br>
+	<tr>
+		<th><h3><a href="stampa.php"> 3D Printing </a></h3></th>
+		<th><a style="font-size:70px;" href="stampa.php"><img width="100" height="100"; src="icone/UI Basic GLYPH-10.svg"></a></th>
+	</tr>   
+	</table>
+</div>
+<!--</div>
+<div style='padding:20px;background-color:#67a6d6;'>
+</div>-->
+</div>
+</main>
+</body>
+
+
